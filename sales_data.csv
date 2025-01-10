@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductID,Category,Quantity,Price,Date,City
+1,101,P1,Electronics,2,500,2025-01-01,New York
+2,102,P2,Clothing,1,50,2025-01-02,Los Angeles
+3,103,P3,Furniture,1,700,2025-01-03,Chicago
+4,101,P1,Electronics,1,500,2025-01-04,New York
+5,104,P4,Clothing,3,40,2025-01-05,Houston
+6,105,P5,Electronics,1,600,2025-01-06,San Francisco
+7,106,P6,Furniture,2,800,2025-01-07,Chicago
+8,101,P2,Clothing,4,50,2025-01-08,New York
+9,107,P7,Furniture,3,300,2025-01-09,Boston
+10,108,P8,Electronics,5,100,2025-01-10,Los Angeles
